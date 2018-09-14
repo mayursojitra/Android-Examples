@@ -30,3 +30,23 @@ Hey Androiders, we are here again quite after a long time to talk about our firs
 ## Android Project Structure
 
 Now Click Finish to Create project and let android studio create & build a gradle based android project for you. Once it finishes the create & build project it will dismiss the process dialog & display Android Project structure on left side & opened files on Right pane. Here I will show you how the Left pane looks like. I have expanded all the Android Project files which is being used in [Android App Development](https://www.theandroid-mania.com/hello-world-with-android-kotlin/).
+
+# Author
+
+- [Mayur Sojitra](https://www.linkedin.com/in/mayursojitra/)
+
+# Blog
+
+- [The Android Mania](https://www.theandroid-mania.com/)
+
+# Hire Me
+
+- [People per hour](http://pph.me/mayursojitra)
+- [UpWork](https://www.upwork.com/freelancers/~019d3db2c3f08414b8)
+
+# Contact Me
+
+- [**Mail me**](mailto:hello@murait.com)
+- [**Contact Us**](https://www.theandroid-mania.com/contact)
+
+:+1: **Happy Coding!!!**
